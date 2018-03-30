@@ -131,7 +131,7 @@ main {
 }
 
 #cutlist {
-  font-size: 1.65em;
+  font-size: 1em;
   line-height: 2;
   margin-bottom: 24px;
   padding: 24px;
@@ -148,6 +148,18 @@ ul#cutlist {
 #workshops {
   margin: 48px auto;
   border-top: 2px solid #CCCCCC;
+}
+
+.work-img01 {
+  float: left;
+  margin-bottom: 12px;
+  margin-right: 12px;
+}
+
+.work-img02 {
+  float: right;
+  margin-bottom: 12px;
+  margin-left: 12px;
 }
 
 #mission {
@@ -189,7 +201,6 @@ ul#cutlist {
   width: 100%;
   display: block;
   text-align: right;
-
 }
 
 #social {
@@ -218,7 +229,6 @@ ul#cutlist {
 }
 
 /* Floated Items */
-
 
 form {
   /* Just to center the form on the page */
